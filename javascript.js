@@ -21,7 +21,7 @@ var viewer = pannellum.viewer('panorama', {
         "panorama": "15m.jpg",
         "hfov":200,
         "haov": 360,
-        "vaov":150,
+        "vaov":180,
         "minPitch":-25,
         "maxPitch": 25,
         "yaw": 0,
